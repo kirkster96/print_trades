@@ -1,0 +1,10 @@
+﻿  parse.cpp
+C:\Users\kirk\source\repos\print_trades\print_trades\parse.cpp(51,199): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\kirk\source\repos\print_trades\print_trades\parse.cpp(51,234): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\kirk\source\repos\print_trades\print_trades\parse.cpp(51,268): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\kirk\source\repos\print_trades\print_trades\parse.cpp(51,301): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\kirk\source\repos\print_trades\print_trades\parse.cpp(7,10): warning C4101: 'type': unreferenced local variable
+  print_trades.cpp
+  trade.cpp
+  Generating Code...
+  print_trades.vcxproj -> C:\Users\kirk\source\repos\print_trades\Debug\print_trades.exe
